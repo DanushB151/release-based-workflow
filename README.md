@@ -5,7 +5,7 @@
     repository is created off the template
 -->
 
-# Create a release based workflow
+# Create a release based workflow Hotfix
 
 _Create a release based workflow that is built on the foundations of the GitHub flow._
 
